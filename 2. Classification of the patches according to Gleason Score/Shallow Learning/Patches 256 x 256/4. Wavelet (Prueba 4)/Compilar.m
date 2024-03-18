@@ -1,0 +1,3 @@
+BinaryNBayes;
+BinaryKNN;
+BinarySVM;
